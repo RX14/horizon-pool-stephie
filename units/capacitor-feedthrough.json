@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Feedthrough capacitor",
+    "pins": {
+        "29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 1
+        },
+        "724fd478-fad9-49ed-b076-4a43892d1927": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 1
+        },
+        "852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 1
+        }
+    },
+    "type": "unit",
+    "uuid": "eeb3e062-31f8-4475-bb14-35103d8b8770"
+}

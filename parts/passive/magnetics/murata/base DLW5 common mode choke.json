@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "base DLW5 common mode choke"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx"
+    ],
+    "description": [
+        false,
+        "Common-Mode Choke"
+    ],
+    "entity": "71cfc978-ce4c-4ec9-b245-06e637b8a0d3",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d9fc366a-97f6-4456-ab14-999b4dd89b83",
+    "pad_map": {
+        "1408a0ba-69a7-4f07-95f3-c1bac90d6d86": {
+            "gate": "2bb68abe-eb64-4806-a887-d1cfd9a54442",
+            "pin": "7275022f-9290-4b01-a802-826c472a08ce"
+        },
+        "3be29691-ca90-4b6b-8af7-7b990b2f355d": {
+            "gate": "2bb68abe-eb64-4806-a887-d1cfd9a54442",
+            "pin": "e6ebf0af-f7f6-4463-bf33-7d6d3062e73e"
+        },
+        "44ccbaa0-5dd0-446e-b60c-8a76d74d378e": {
+            "gate": "2bb68abe-eb64-4806-a887-d1cfd9a54442",
+            "pin": "6b9ebd17-f9a5-419a-8656-4e78a50ea234"
+        },
+        "8e03bc81-97cb-46fa-b7e1-82ba3a71d558": {
+            "gate": "2bb68abe-eb64-4806-a887-d1cfd9a54442",
+            "pin": "bb7f0b9a-63d7-461c-bcdb-94b75aeb62c4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "common-mode",
+        "smd",
+        "transformer"
+    ],
+    "type": "part",
+    "uuid": "9ec351fc-8218-4742-b61e-9ea6cd0d2c11",
+    "value": [
+        false,
+        ""
+    ]
+}

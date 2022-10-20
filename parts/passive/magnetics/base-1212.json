@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "base 1212 inductor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d3c345a1-2b7f-4e8d-8473-042ae3ccdb34",
+    "pad_map": {
+        "240c15fd-1f0d-425c-8ee8-c54d7f81f83b": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "8471f1b3-be6c-4338-9181-aa1051fb7560": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "ebaa4a9a-15d6-4098-b57d-aaf7fcb5edc0",
+    "value": [
+        false,
+        ""
+    ]
+}

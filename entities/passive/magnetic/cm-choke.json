@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2bb68abe-eb64-4806-a887-d1cfd9a54442": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "63a63405-3a2b-40bd-9242-f4cdc02f6353"
+        }
+    },
+    "manufacturer": "",
+    "name": "Common mode choke",
+    "prefix": "T",
+    "tags": [
+        "choke",
+        "magnetics"
+    ],
+    "type": "entity",
+    "uuid": "71cfc978-ce4c-4ec9-b245-06e637b8a0d3"
+}

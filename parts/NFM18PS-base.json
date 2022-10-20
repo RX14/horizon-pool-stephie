@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "NFM18PS base"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx"
+    ],
+    "description": [
+        false,
+        "Feedthrough Capacitor"
+    ],
+    "entity": "0a231169-1674-4ecf-a869-f62d2b88d918",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "de2fe1c6-b857-4254-aab2-a7e2ad064d3d",
+    "pad_map": {
+        "2b1f67a3-53d8-4091-b85f-c730d7517a4f": {
+            "gate": "25f07cc8-4bd3-487c-9c0b-d55822545bd5",
+            "pin": "724fd478-fad9-49ed-b076-4a43892d1927"
+        },
+        "345a5ca4-e347-4a22-86f4-ce99894f41f8": {
+            "gate": "25f07cc8-4bd3-487c-9c0b-d55822545bd5",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "5ac80d66-4ab6-4aa3-8ef2-e0c73d49352b": {
+            "gate": "25f07cc8-4bd3-487c-9c0b-d55822545bd5",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "f0f37e0b-cef4-4256-a4ce-860382daa35c": {
+            "gate": "25f07cc8-4bd3-487c-9c0b-d55822545bd5",
+            "pin": "724fd478-fad9-49ed-b076-4a43892d1927"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor",
+        "feedthrough",
+        "filter",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "2fbd58ac-8431-49e7-8de4-313162995f20",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "009159010061xxx"
+    ],
+    "datasheet": [
+        false,
+        "http://datasheets.avx.com/OpenEndedCard%20Edge_00-9159.pdf"
+    ],
+    "description": [
+        false,
+        "10pin Open Ended Card Edge Connector"
+    ],
+    "entity": "504f4bfc-0750-4221-89bb-1160fc2e6ee7",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AVX"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b9fda62f-8930-4666-8e32-344591ea367e",
+    "pad_map": {
+        "222ed7ce-cedd-43ed-b434-c70d76fa6306": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "f776e830-d17f-422f-adac-e6e5ebaee545"
+        },
+        "4496cfba-7f50-4189-be67-05fee8214da6": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "7222169d-2694-4b74-ae22-5ad906606f99"
+        },
+        "4b8fdaa2-cae2-48e2-b984-29e54f822393": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "c4b28d29-3d36-426c-9e96-e3c874a781ac"
+        },
+        "4f9d717c-df62-4579-aeb2-888924a1dfc0": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "63a2f649-839c-488c-8d87-bfae6388ef1a"
+        },
+        "50e8d19c-5a92-49b4-8600-bb9e3ee9039d": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "1cca2e10-ef16-4885-9ecc-9ee7fdbb7a4a"
+        },
+        "71153ce6-2993-41e7-8681-d27e60462352": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "3db7fe02-604e-4960-b2b1-0578f4782512"
+        },
+        "832b810f-3baa-4a29-a1ff-54757d314c03": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "d1f34c2f-6541-401e-b843-81befc8d8f93"
+        },
+        "84bf8a39-2c54-4b20-9722-6b3eebc7baf5": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "38db3294-dfc3-430b-92a1-2a1187c442ab"
+        },
+        "a94dc819-b5fc-4ca0-8b23-fb8a161bb5e2": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "4c3f7b77-060a-4cc8-9589-5b33c9d3b678"
+        },
+        "beb1a9d3-ae77-4bc7-9713-4308ca76f223": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "aa3df9df-f618-49c4-bbe4-36d4757a60ba"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "card-edge",
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "2782a17b-f4ba-44f9-96f0-f2fff246bc4e",
+    "value": [
+        false,
+        ""
+    ]
+}

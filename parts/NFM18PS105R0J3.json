@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "NFM18PS105R0J3"
+    ],
+    "base": "2fbd58ac-8431-49e7-8de4-313162995f20",
+    "datasheet": [
+        false,
+        "https://www.murata.com/en-eu/products/productdetail?partno=NFM18PS105R0J3%23"
+    ],
+    "description": [
+        true,
+        "Feedthrough Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "63bb835e-8ec4-4119-b2c9-43d0572f3573",
+    "value": [
+        false,
+        "1 µF"
+    ]
+}

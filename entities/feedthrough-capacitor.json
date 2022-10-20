@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "25f07cc8-4bd3-487c-9c0b-d55822545bd5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eeb3e062-31f8-4475-bb14-35103d8b8770"
+        }
+    },
+    "manufacturer": "",
+    "name": "Feedthrough Capacitor",
+    "prefix": "C",
+    "tags": [
+        "capacitor",
+        "feedthrough",
+        "filter",
+        "generic",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "0a231169-1674-4ecf-a869-f62d2b88d918"
+}

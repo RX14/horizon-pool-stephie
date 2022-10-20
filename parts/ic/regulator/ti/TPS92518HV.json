@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "TPS92518HVPWP"
+    ],
+    "base": "948d6928-939d-4808-9c93-2f047218f447",
+    "datasheet": [
+        true,
+        "https://www.ti.com/lit/gpn/tps92518"
+    ],
+    "description": [
+        true,
+        "Dual Channel Buck LED Controller with SPI Interface, Analog and PWM Dimming"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Texas Instruments"
+    ],
+    "model": "814fadf6-ef2f-4d1b-808f-d54d767a272a",
+    "orderable_MPNs": {
+        "206ea2e6-b313-4919-802a-7a503a3a80d2": "TPS92518HVPWPT",
+        "4110fa64-62d7-409a-8fc1-fc38f14cad96": "TPS92518HVPWPR"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "51443d8d-2292-409f-aba6-52d3e3888bfa",
+    "value": [
+        true,
+        "TPS92518"
+    ]
+}

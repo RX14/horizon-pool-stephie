@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "X1A0001410006"
+    ],
+    "datasheet": [
+        false,
+        "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=X1A0001410006"
+    ],
+    "description": [
+        false,
+        "SMD crystal, 32.768 kHz, 20ppm, 6 pF, 50 kΩ"
+    ],
+    "entity": "5159b99a-7b6d-48f7-8588-d0b503cdd8d8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "EPSON"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "367de504-59cd-4e4c-9020-d7524a500adf": "X1A000141000612",
+        "460b339a-f315-409c-8822-a6780d5d9029": "X1A000141000600",
+        "68002690-c5db-4e22-b303-5557e511a1a0": "X1A000141000601",
+        "b070e2c2-dc3c-48b8-bcab-f13c1ce4664c": "X1A000141000611",
+        "b1d7c354-45a6-4c6f-934f-50d9978a9d06": "X1A000141000614",
+        "e9e91ecd-0c9d-4305-97fc-9119b2e5bdfa": "X1A000141000615",
+        "fda9bf0e-16ff-4ad9-98a7-2ef21be7972b": "X1A000141000613"
+    },
+    "package": "2413a1b5-552f-4725-b608-e6f545ea3583",
+    "pad_map": {
+        "5ef9ff98-d2cd-4957-a75f-dbe48e06f214": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "b686a813-3ce7-4f6b-8fdb-0e443d362591": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "20d027c0-e959-4dd3-951a-af86707814f5",
+    "value": [
+        false,
+        "32.768 kHz"
+    ]
+}
