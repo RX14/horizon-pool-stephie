@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TL431xDBZ"
+    ],
+    "base": "4fd9694e-e4dc-492f-86e7-2f8204618409",
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/tl431"
+    ],
+    "description": [
+        true,
+        "Adjustable precision shunt regulator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6d5a1b3d-90fd-4381-a891-78b8f492d55b",
+    "value": [
+        true,
+        ""
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TL432xDBZ"
+    ],
+    "base": "7953f685-e6ab-4916-b121-1d5ac6305ba8",
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/tl432"
+    ],
+    "description": [
+        true,
+        "Adjustable precision shunt regulator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "190f3e23-f0ba-4f85-a98e-c22e07a4b82a",
+    "value": [
+        true,
+        "base TL432 sot-23"
+    ]
+}
