@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "DMP3013SFV"
+    ],
+    "base": "25365f0c-bd2f-4f7f-b383-296ed4b1dadd",
+    "datasheet": [
+        true,
+        "https://www.diodes.com/datasheet/download/DMP3013SFV.pdf"
+    ],
+    "description": [
+        true,
+        "30 V P-Channel Enhancement Mode MOSFET"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "cdebf2f4-31c4-4a4a-b9ad-f422f6a986ce",
+    "value": [
+        true,
+        ""
+    ]
+}
