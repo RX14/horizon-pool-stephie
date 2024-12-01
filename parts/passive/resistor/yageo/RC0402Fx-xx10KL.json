@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RC0402Fx-xx10KL"
+    ],
+    "base": "532ed8be-0c11-434f-a326-cc400e8dd34a",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "8f8d4b53-3627-479d-aa38-20cf623e1264": "RC0402FR-0710KL"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "10000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "61a42878-3941-4a09-a296-3a89de3ad849",
+    "value": [
+        false,
+        "10 kΩ"
+    ]
+}
