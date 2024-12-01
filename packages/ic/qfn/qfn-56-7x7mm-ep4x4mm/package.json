@@ -2,6 +2,22 @@
     "arcs": {},
     "default_model": "00000000-0000-0000-0000-000000000000",
     "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1250000,
+                1250000
+            ],
+            "spacing_square": 200000
+        },
+        "grids": {}
+    },
     "junctions": {
         "2114e982-0069-4d19-b36d-325ba05efe9e": {
             "position": [
@@ -449,7 +465,7 @@
             }
         },
         "61f85c06-dae0-46d2-8e70-51a34dffccce": {
-            "name": "EP",
+            "name": "PAD",
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 250000,
