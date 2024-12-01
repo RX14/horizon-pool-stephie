@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "34afa2f7-b7a6-451f-a204-9b719e92563b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b5dbff5b-c621-46d3-9404-746927b36b1d"
+        }
+    },
+    "manufacturer": "Monolithic Power Systems",
+    "name": "MP9928",
+    "prefix": "U",
+    "tags": [
+        "buck",
+        "dcdc",
+        "ic",
+        "regulator",
+        "synchronous"
+    ],
+    "type": "entity",
+    "uuid": "496b34d4-5e2d-40d1-90ea-eece6becad4c"
+}

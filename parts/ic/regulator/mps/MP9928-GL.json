@@ -1,0 +1,123 @@
+{
+    "MPN": [
+        false,
+        "MP9928GL"
+    ],
+    "datasheet": [
+        false,
+        "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP9928/document_id/193/"
+    ],
+    "description": [
+        false,
+        "4V-60V Input, Current Mode, Synchronous Step-Down Controller"
+    ],
+    "entity": "496b34d4-5e2d-40d1-90ea-eece6becad4c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Monolithic Power Systems"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "e54bff2a-ece3-40dc-a46b-a0edfe195692",
+    "pad_map": {
+        "0c9bbb74-8fa5-475c-b6d6-23538f7287fa": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "2d9f7055-91b0-46f6-a34c-e16c01cfaf79"
+        },
+        "10f0e310-fbce-4891-a8ef-c19ae5430caa": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "bc7907dd-c706-4a14-a2f3-48f5c048304c"
+        },
+        "181eb912-efe1-4804-b1b8-6fcc5bc4a073": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "d24c8ac8-7c06-460d-b4cc-e4b6bcc823b8"
+        },
+        "29391f64-d6fa-4e48-b88f-09c6f6778d77": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "e09d7167-c5a9-45de-adc8-9f93848bf127"
+        },
+        "2e23214b-ac44-48d4-8909-bf4d0d69668d": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "02c6eef5-10a5-4efb-ad40-a7f0e4130981"
+        },
+        "468b22ef-2031-4b21-8c20-577ba1688dae": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "dfbb2714-cdd4-4c3d-b4eb-c5819e16f5bd"
+        },
+        "4898e503-0559-43b0-9189-85b1b99451de": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "4423a272-b7fb-4172-a586-393ea0394b5b"
+        },
+        "5067cef1-202e-4c7d-b224-7026c8a3aa74": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "5f041e90-750e-4130-8ebe-353fab943140"
+        },
+        "50c55eab-7239-4b73-9c2f-1ad79d005240": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "0562229b-386e-4580-8a6f-b3fe268c2a0d"
+        },
+        "5c170e46-f009-4230-8bb1-0f6e097054c6": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "5dbcf446-51ef-418f-bc5d-7a28d2bdda6d"
+        },
+        "5fa814d7-b575-496c-ae19-51efd1aa51a6": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "a5ec5737-fba1-4ac2-9e9a-3157e7ffef30"
+        },
+        "64eab142-c58a-470d-9227-c26e00ed9c07": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "a558f4df-5ffd-4725-836c-2f7f1fe60233"
+        },
+        "6ed8fc29-28bc-400b-8908-aadbed3edc16": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "1fb3ded9-1895-430d-a392-9b549c5db4fc"
+        },
+        "8ba526c7-7382-4e30-a06f-8483b28a24e5": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "5d214b16-3c1f-4910-be22-88cf93127674"
+        },
+        "9a54fbcb-9456-42fe-a1af-ce2ed3ea9516": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "68fd2bfe-2e60-46fb-980b-a06950153644"
+        },
+        "9c1260b6-8f63-4e27-ac94-8dec4a5305b0": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "da451474-f509-4998-be42-540995f501e0"
+        },
+        "a3766600-3bee-4435-9cd8-b4d10501bb49": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "b0ee827c-1544-4b11-bf75-9a55c3fa5f66"
+        },
+        "c8a9e7e8-4f42-49d4-806e-70f898a499d8": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "59c403b0-7b50-4003-82d4-e16525da512a"
+        },
+        "cfb897cf-3703-4c91-8598-1f9f0e0c4bdf": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "0562229b-386e-4580-8a6f-b3fe268c2a0d"
+        },
+        "df2291fa-0459-40f5-8d41-99627fe27c43": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "7541fa11-cad6-4eac-9fc3-532a129b69e6"
+        },
+        "e0032e2f-3a8c-4424-a66a-d05ef5f0a9ee": {
+            "gate": "34afa2f7-b7a6-451f-a204-9b719e92563b",
+            "pin": "5c80eb3b-5579-4649-85a2-8ee760a850a5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "buck",
+        "dcdc",
+        "ic",
+        "regulator",
+        "synchronous"
+    ],
+    "type": "part",
+    "uuid": "f15ecd55-de36-421c-95aa-c829e329058e",
+    "value": [
+        false,
+        ""
+    ]
+}

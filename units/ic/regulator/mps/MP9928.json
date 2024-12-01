@@ -1,0 +1,128 @@
+{
+    "manufacturer": "Monolithic Power Systems",
+    "name": "MP9928",
+    "pins": {
+        "02c6eef5-10a5-4efb-ad40-a7f0e4130981": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "COMP",
+            "swap_group": 0
+        },
+        "0562229b-386e-4580-8a6f-b3fe268c2a0d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "1fb3ded9-1895-430d-a392-9b549c5db4fc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC2",
+            "swap_group": 0
+        },
+        "2d9f7055-91b0-46f6-a34c-e16c01cfaf79": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TG",
+            "swap_group": 0
+        },
+        "4423a272-b7fb-4172-a586-393ea0394b5b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ILIM",
+            "swap_group": 0
+        },
+        "59c403b0-7b50-4003-82d4-e16525da512a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "5c80eb3b-5579-4649-85a2-8ee760a850a5": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC1",
+            "swap_group": 0
+        },
+        "5d214b16-3c1f-4910-be22-88cf93127674": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SYNCO",
+            "swap_group": 0
+        },
+        "5dbcf446-51ef-418f-bc5d-7a28d2bdda6d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BG",
+            "swap_group": 0
+        },
+        "5f041e90-750e-4130-8ebe-353fab943140": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SENSE+",
+            "swap_group": 0
+        },
+        "68fd2bfe-2e60-46fb-980b-a06950153644": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CCM/AAM",
+            "swap_group": 0
+        },
+        "7541fa11-cad6-4eac-9fc3-532a129b69e6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SGND",
+            "swap_group": 0
+        },
+        "a558f4df-5ffd-4725-836c-2f7f1fe60233": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PG",
+            "swap_group": 0
+        },
+        "a5ec5737-fba1-4ac2-9e9a-3157e7ffef30": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "b0ee827c-1544-4b11-bf75-9a55c3fa5f66": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SS",
+            "swap_group": 0
+        },
+        "bc7907dd-c706-4a14-a2f3-48f5c048304c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FREQ",
+            "swap_group": 0
+        },
+        "d24c8ac8-7c06-460d-b4cc-e4b6bcc823b8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN/SYNC",
+            "swap_group": 0
+        },
+        "da451474-f509-4998-be42-540995f501e0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "dfbb2714-cdd4-4c3d-b4eb-c5819e16f5bd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "e09d7167-c5a9-45de-adc8-9f93848bf127": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SENSE-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b5dbff5b-c621-46d3-9404-746927b36b1d"
+}
