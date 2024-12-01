@@ -3,7 +3,8 @@
     "default_via": "00000000-0000-0000-0000-000000000000",
     "name": "Stephie's Horizon Pool",
     "pools_included": [
-        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+        "aad769f8-8856-43fc-8dcd-28616e4eccd6"
     ],
     "type": "pool",
     "uuid": "796b2acc-01da-48d8-bd75-90bb99f25b70"
