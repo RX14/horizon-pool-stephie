@@ -5,3 +5,4 @@ tmp/*.json
 *.imp_meta
 *.autosave
 *.bak
+cache/
